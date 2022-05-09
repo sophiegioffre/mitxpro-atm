@@ -13,7 +13,7 @@ Clone files to local drive. Run on localhost:8080.
 <br/>
 -Modified UI to require users to select "Deposit" or "Withdraw" before input/submit becomes visible
 <br/>
--Added alert message that pops up when user enters a withdraw amount that is greater than their account balace
+-Added alert message that pops up when user enters a withdraw amount that is greater than their account balance
 
 ## Roadmap to Future Improvements
 -Update styling
