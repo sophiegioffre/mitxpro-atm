@@ -1,0 +1,8 @@
+body {
+    font-family: Arial;
+    margin: 5%;
+}
+
+.alert-message {
+    color: darkred;
+}
